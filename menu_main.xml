@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.esrapc.orneksoru.MainActivity">
+
+            <item
+                android:id="@+id/redColor"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:title="kırmızı">
+
+            </item>
+            <item
+                android:id="@+id/bluecolor"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:title="mavi">
+
+            </item>
+            <item
+                android:id="@+id/blackcolor"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:title="black">
+
+            </item>
+
+
+            <item
+                android:id="@+id/fourteenSize"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:title="14">
+
+            </item>
+            <item
+                android:id="@+id/sixteenSize"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:title="16">
+
+            </item>
+            <item
+                android:id="@+id/eightteenSize"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:title="18">
+
+            </item>
+        </menu>
+
